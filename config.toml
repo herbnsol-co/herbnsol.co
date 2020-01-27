@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://herbnsol.co"
+baseURL = "https://herbnsol.life"
 languageCode = "en-us"
 title = "HERB n' Sol  | Store"
 theme = "hargo"
