@@ -1,4 +1,4 @@
-name: github pages
+name: GitHub Pages Production
 
 on:
   push:
@@ -31,7 +31,7 @@ jobs:
     - name: CNAME
       run: |
         echo 'herbnsol.life' > ./public/CNAME
-    
+
     # https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-how-to-add-cname
     - name: Deploy
       # uses: peaceiris/actions-gh-pages@v2
