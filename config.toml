@@ -85,7 +85,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Herb n Sol"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -95,10 +95,10 @@ mapMarker = "images/marker.png"
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "0124857985320"
-email = "demo@email.com"
+email = "contact@herbnsol.co"
 location = "New York, New York"
 # copyright
-copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| @2020 [Herb N Sol](https://herbnsol.co) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -132,7 +132,7 @@ copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved 
   # TODO: this 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.instagram.com/herbnsol/"
 
   # TODO: this s
   [[params.social]]
