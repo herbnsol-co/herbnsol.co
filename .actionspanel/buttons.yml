@@ -1,0 +1,4 @@
+buttons:
+  - title: Run tests
+    action: "GitHub Pages Preview"
+    description: Run your tests
